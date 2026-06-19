@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Dulce ve
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T02:05:08.626479 | `v1` | `632f4f2dde68c28e87c6c9b8b86d9d442ea2842f4cf73558f671994884266e7b` | `3e1a042aa007841bd98ee9df61f0c1edaadab8fcbcc197f10a68982ae2930c1e` | `2026-06-20_dulce-veneno-de-amor-vol-2-v1.txt` |
+| 2026-06-20T02:28:47.092062 | `v2` | `eb37cf74dcef8a0a21695dd17aa18840cbafdfd84ea1eab752f3c395446d2fae` | `88d1665cc543c35893997ec622768d502a69ab17992f8ddfd3d8cb579cac24af` | `2026-06-20_dulce-veneno-de-amor-vol-2-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-veneno-de-amor-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Dulce veneno de amor, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-veneno-de-amor-vol-2/) |
+| **Get License** | [Official Music Licensing for Dulce veneno de amor, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-veneno-de-amor-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `632f4f2dde68c28e87c6c9b8b86d9d442ea2842f4cf73558f671994884266e7b` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `eb37cf74dcef8a0a21695dd17aa18840cbafdfd84ea1eab752f3c395446d2fae` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
