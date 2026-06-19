@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-veneno-de-amor-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dulce veneno de amor, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-veneno-de-amor-vol-2/) |
+| **Get License** | [Get a Licensing Quote for Dulce veneno de amor, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-veneno-de-amor-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú eres mi dulce veneno, mi mayor debilidad
+> Esa mirada tuya me hace perder la gravedad
+> En medio de la disco, baby, pura electricidad
+> Un trago de tus labios me quita la tranquilidad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
